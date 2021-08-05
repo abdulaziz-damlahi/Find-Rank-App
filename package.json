@@ -1,0 +1,40 @@
+{
+    "name": "findrankapp",
+    "version": "1.0.0",
+    "description": "<p align=\"center\"><a href=\"https://laravel.com\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg\" width=\"400\"></a></p>",
+    "main": "webpack.mix.js",
+    "directories": {
+        "test": "tests"
+    },
+    "dependencies": {
+        "cross-env": "^7.0.3",
+        "cross-spawn": "^7.0.3",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "ioredis": "^4.25.0",
+        "isexe": "^2.0.0",
+        "laravel-echo": "^1.10.0",
+        "laravel-echo-server": "^1.6.2",
+        "path-key": "^3.1.1",
+        "redis": "^3.1.0",
+        "redis-server": "^1.2.2",
+        "shebang-command": "^2.0.0",
+        "shebang-regex": "^3.0.0",
+        "socket.io": "^2.4.1",
+        "socket.io-client": "^2.4.0",
+        "which": "^2.0.2"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/abdulaziz-damlahi2/findRankApp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://gitlab.com/abdulaziz-damlahi2/findRankApp/issues"
+    },
+    "homepage": "https://gitlab.com/abdulaziz-damlahi2/findRankApp#readme"
+}
